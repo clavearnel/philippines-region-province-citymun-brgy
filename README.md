@@ -21,7 +21,7 @@ MYSQL
 
 Credits
 -------
-[http://www.nscb.gov.ph/](National Statistical Coordination Board)
+[National Statistical Coordination Board](http://www.nscb.gov.ph/)
 
 
 Changelog

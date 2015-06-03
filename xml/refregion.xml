@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+<RECORD>
+<id>1</id>
+<psgcCode>010000000</psgcCode>
+<regDesc>REGION I (ILOCOS REGION)</regDesc>
+<regCode>01</regCode>
+</RECORD>
+<RECORD>
+<id>2</id>
+<psgcCode>020000000</psgcCode>
+<regDesc>REGION II (CAGAYAN VALLEY)</regDesc>
+<regCode>02</regCode>
+</RECORD>
+<RECORD>
+<id>3</id>
+<psgcCode>030000000</psgcCode>
+<regDesc>REGION III (CENTRAL LUZON)</regDesc>
+<regCode>03</regCode>
+</RECORD>
+<RECORD>
+<id>4</id>
+<psgcCode>040000000</psgcCode>
+<regDesc>REGION IV-A (CALABARZON)</regDesc>
+<regCode>04</regCode>
+</RECORD>
+<RECORD>
+<id>5</id>
+<psgcCode>170000000</psgcCode>
+<regDesc>REGION IV-B (MIMAROPA)</regDesc>
+<regCode>17</regCode>
+</RECORD>
+<RECORD>
+<id>6</id>
+<psgcCode>050000000</psgcCode>
+<regDesc>REGION V (BICOL REGION)</regDesc>
+<regCode>05</regCode>
+</RECORD>
+<RECORD>
+<id>7</id>
+<psgcCode>060000000</psgcCode>
+<regDesc>REGION VI (WESTERN VISAYAS)</regDesc>
+<regCode>06</regCode>
+</RECORD>
+<RECORD>
+<id>8</id>
+<psgcCode>070000000</psgcCode>
+<regDesc>REGION VII (CENTRAL VISAYAS)</regDesc>
+<regCode>07</regCode>
+</RECORD>
+<RECORD>
+<id>9</id>
+<psgcCode>080000000</psgcCode>
+<regDesc>REGION VIII (EASTERN VISAYAS)</regDesc>
+<regCode>08</regCode>
+</RECORD>
+<RECORD>
+<id>10</id>
+<psgcCode>090000000</psgcCode>
+<regDesc>REGION IX (ZAMBOANGA PENINSULA)</regDesc>
+<regCode>09</regCode>
+</RECORD>
+<RECORD>
+<id>11</id>
+<psgcCode>100000000</psgcCode>
+<regDesc>REGION X (NORTHERN MINDANAO)</regDesc>
+<regCode>10</regCode>
+</RECORD>
+<RECORD>
+<id>12</id>
+<psgcCode>110000000</psgcCode>
+<regDesc>REGION XI (DAVAO REGION)</regDesc>
+<regCode>11</regCode>
+</RECORD>
+<RECORD>
+<id>13</id>
+<psgcCode>120000000</psgcCode>
+<regDesc>REGION XII (SOCCSKSARGEN)</regDesc>
+<regCode>12</regCode>
+</RECORD>
+<RECORD>
+<id>14</id>
+<psgcCode>130000000</psgcCode>
+<regDesc>NATIONAL CAPITAL REGION (NCR)</regDesc>
+<regCode>13</regCode>
+</RECORD>
+<RECORD>
+<id>15</id>
+<psgcCode>140000000</psgcCode>
+<regDesc>CORDILLERA ADMINISTRATIVE REGION (CAR)</regDesc>
+<regCode>14</regCode>
+</RECORD>
+<RECORD>
+<id>16</id>
+<psgcCode>150000000</psgcCode>
+<regDesc>AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)</regDesc>
+<regCode>15</regCode>
+</RECORD>
+<RECORD>
+<id>17</id>
+<psgcCode>160000000</psgcCode>
+<regDesc>REGION XIII (Caraga)</regDesc>
+<regCode>16</regCode>
+</RECORD>
+</RECORDS>
