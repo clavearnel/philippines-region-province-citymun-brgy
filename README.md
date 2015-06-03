@@ -6,7 +6,7 @@ Philippines Regions, Province, Cities/Municipalities and Barangay
 [https://github.com/clavearnel/philippines-region-province-citymun-brgy](https://github.com/clavearnel/philippines-region-province-citymun-brgy)
 
 
-[Arnel Clave](https://github.com/clavearnel)
+[Arnel Clave](http://arnelc.com)
 
 SQL dump data containing the updated list of Philippines Regions, Province, City and Municipality and Barangay
 
