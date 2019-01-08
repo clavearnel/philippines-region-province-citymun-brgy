@@ -1,12 +1,11 @@
 Philippines Regions, Province, Cities/Municipalities and Barangay
 ===============================
 
+Forked From: [https://github.com/clavearnel/philippines-region-province-citymun-brgy](https://github.com/clavearnel/philippines-region-province-citymun-brgy)
+By: [Arnel Clave](http://arnelc.com)
 
-
-[https://github.com/clavearnel/philippines-region-province-citymun-brgy](https://github.com/clavearnel/philippines-region-province-citymun-brgy)
-
-
-[Arnel Clave](http://arnelc.com)
+Updated at: January 8, 2019
+By: [Brennan Matriano](http://brenmat.dx.am)
 
 SQL dump data containing the updated list of Philippines Regions, Province, City and Municipality and Barangay
 
@@ -17,7 +16,7 @@ Technical Details
 -----------------
 
 MYSQL
-* Generated from **MySQL 5.6.21**
+* Generated from **MySQL 10.3.09**
 
 Credits
 -------
@@ -30,3 +29,5 @@ Changelog
 **1.0**
 * Initial version, contains MySQL tables for Regions, Provinces, Cities/Municipalities and Barangay
 
+**1.1**
+* Updated to reflect the changes made since the original version detailed by the Philippine Statistics Authority [here](https://psa.gov.ph/tags/philippine-standard-geographic-code-psgc)
