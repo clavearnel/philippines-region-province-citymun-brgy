@@ -27,7 +27,7 @@
 {
 "id":5,
 "psgcCode":"170000000",
-"regDesc":"REGION IV-B (MIMAROPA)",
+"regDesc":"MIMAROPA (SOUTHWESTERN TAGALOG REGION)",
 "regCode":"17"
 },
 {
@@ -99,7 +99,7 @@
 {
 "id":17,
 "psgcCode":"160000000",
-"regDesc":"REGION XIII (Caraga)",
+"regDesc":"REGION XIII (CARAGA)",
 "regCode":"16"
 }
 ]
